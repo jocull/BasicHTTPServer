@@ -12,7 +12,7 @@ namespace BasicHTTPServer
 {
     public class HTTPServer
     {
-        public int portNum = 8085;
+        public int portNum = 80;
         public TcpListener listener;
         public Thread Thread;
 		public Hashtable respStatus;
