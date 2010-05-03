@@ -12,7 +12,7 @@ namespace BasicHTTPServer
     public partial class frmMain : Form
     {
         protected HTTPServer MyServer;
-        protected int PortToUse = 9095;
+        protected int PortToUse = 10095;
 
         public frmMain()
         {
